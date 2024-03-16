@@ -34,7 +34,6 @@ func makeNav(w fyne.Window) fyne.CanvasObject {
 	tree := widget.NewTreeWithStrings(menuItems)
 	tree.OnSelected = func(id string) {
 		if id == "Request Order" {
-			//uploadFile(w)
 			showUploadScreen(w)
 		}
 		if id == "Home" {
