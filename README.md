@@ -1,4 +1,4 @@
-# File Uploader
+# Golang Fyne - Desktop App
 
 [![GitHub stars](https://img.shields.io/github/stars/Shashank771df/Golang-fyne.svg)](https://github.com/Shashank771df/YourRepo/stargazers)
 
